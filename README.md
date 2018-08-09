@@ -1,1 +1,1 @@
-It is a Open-Source Work Track System developed in CodeIgnitor and SQLite3[D[D[D[D[D[D[D[D[D[D[D[D3[C[C[C[C[D[D[D[D and SQLite3 where user can keep records of their daily work input and output.
+It is a Open-Source Work Track System developed in CodeIgnitor and SQLite3 where user can keep records of their daily work input and output.
